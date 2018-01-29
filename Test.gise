@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Test.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ALU_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Adder16_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="CAP17_Processor.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="CAP17_Processor.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CAP17_Processor.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="CAP17_Processor.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="CAP17_Processor.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="CAP17_Processor.syr"/>
+    <file xil_pn:fileType="FILE_VERILOG_INSTTEMPLATE" xil_pn:name="CAP17_Processor.tfi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="CAP17_Processor.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CAP17_Processor_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="CAP17_Processor_envsettings.html"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CAP17_Processor_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="CAP17_Processor_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CAP17_Processor_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="CAP17_Processor_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="CAP17_Processor_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ControlUnit_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="FullAdder.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="FullAdder.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="FullAdder.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="FullAdder_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="LShifter_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Mem16_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Memory_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MultiPlexedALU_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Multiplier_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="RegBank_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Subtractor16_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="XOR16_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="decoder_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1517080717" xil_pn:name="TRANEXT_compLibraries2_virtex5" xil_pn:prop_ck="5438683702708918982" xil_pn:start_ts="1517080717">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1509532348" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1509532348">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1517265913" xil_pn:in_ck="-7741605302898200670" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1517265913">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CAP17_Processor.v"/>
+      <outfile xil_pn:name="ControlUnit.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/ALU.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/Adder16.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/FullAdder.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/LShifter.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/Multiplier.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/Subtractor16.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/XOR16.v"/>
+      <outfile xil_pn:name="Mem16.v"/>
+      <outfile xil_pn:name="MultiPlexedALU.v"/>
+      <outfile xil_pn:name="RegBank.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1517265941" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-2161304641201869326" xil_pn:start_ts="1517265941">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1517265941" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-3758008239312833776" xil_pn:start_ts="1517265941">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1516920860" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="6728300225922897304" xil_pn:start_ts="1516920860">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1517265913" xil_pn:in_ck="-7741605302898200670" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1517265913">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CAP17_Processor.v"/>
+      <outfile xil_pn:name="ControlUnit.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/ALU.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/Adder16.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/FullAdder.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/LShifter.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/Multiplier.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/Subtractor16.v"/>
+      <outfile xil_pn:name="D:/Xilinx/HW1/XOR16.v"/>
+      <outfile xil_pn:name="Mem16.v"/>
+      <outfile xil_pn:name="MultiPlexedALU.v"/>
+      <outfile xil_pn:name="RegBank.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1517265947" xil_pn:in_ck="-7741605302898200670" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="1816044658055249651" xil_pn:start_ts="1517265941">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="CAP17_Processor_beh.prj"/>
+      <outfile xil_pn:name="CAP17_Processor_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1517269156" xil_pn:in_ck="7617617510011652672" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="2779698584304662616" xil_pn:start_ts="1517269156">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="CAP17_Processor_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1517080674" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1517080674">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1517080674" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-8071594459955488240" xil_pn:start_ts="1517080674">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1517080674" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="6728300225922897304" xil_pn:start_ts="1517080674">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1517080674" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1517080674">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1517080674" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-2161304641201869326" xil_pn:start_ts="1517080674">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1517080674" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1517080674">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1517080674" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="8888043752648632546" xil_pn:start_ts="1517080674">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1517254265" xil_pn:in_ck="-7741605302898200670" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="-8753907482038321963" xil_pn:start_ts="1517254253">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <status xil_pn:value="OutputRemoved"/>
+      <outfile xil_pn:name="CAP17_Processor.lso"/>
+      <outfile xil_pn:name="CAP17_Processor.prj"/>
+      <outfile xil_pn:name="CAP17_Processor.syr"/>
+      <outfile xil_pn:name="CAP17_Processor.xst"/>
+      <outfile xil_pn:name="CAP17_Processor_stx_beh.prj"/>
+      <outfile xil_pn:name="CAP17_Processor_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1517080695" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-6937830614250573923" xil_pn:start_ts="1517080695">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+  </transforms>
+
+</generated_project>

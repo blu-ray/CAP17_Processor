@@ -1,0 +1,28 @@
+Command line:
+   MultiPlexedALU_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  3983
+
+Tue Jan 30 02:15:22 2018
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 846.344 Meg
+
+ Total Signals          : 320
+ Total Nets             : 470
+ Total Signal Drivers   : 197
+ Total Blocks           : 40
+ Total Primitive Blocks : 36
+ Total Processes        : 226
+ Total Traceable Variables  : 30
+ Total Scalar Nets and Variables : 730
+
+ Total Simulation Time: 0.203125 sec
+
+ Current Memory Usage: 846.344 Meg
+
+Tue Jan 30 02:15:38 2018
+

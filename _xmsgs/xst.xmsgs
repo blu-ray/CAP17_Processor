@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"D:\Test\CAP17_Processor.v" Line 45: Assignment to <arg fmt="%s" index="1">MemDatain</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"D:\Test\Mem16.v" Line 221: Result of <arg fmt="%d" index="1">13</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">12</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"D:\Test\Mem16.v" Line 245: Signal &lt;<arg fmt="%s" index="1">clk</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="636" delta="new" >"D:\Test\Mem16.v" Line 242: Net &lt;<arg fmt="%s" index="1">clk_con_at_statuschange</arg>&gt; is already driven by input port &lt;<arg fmt="%s" index="2">clk</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="new" >"D:\Test\Mem16.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">Mem16</arg>&gt; remains a black box.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1773" delta="new" >"D:\Test\RegBank.v" Line 58: Procedural &apos;assign&apos; is not a supported statement for synthesis
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="new" >"D:\Test\RegBank.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">RegBank</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"D:\Test\CAP17_Processor.v" Line 100: Assignment to <arg fmt="%s" index="1">RegBankStatus_n</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"D:\Test\CAP17_Processor.v" Line 101: Assignment to <arg fmt="%s" index="1">RegBankStatus_c</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"D:\Test\CAP17_Processor.v" Line 102: Assignment to <arg fmt="%s" index="1">RegBankStatus_ov</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1773" delta="new" >"D:\Test\ControlUnit.v" Line 52: Procedural &apos;assign&apos; is not a supported statement for synthesis
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="new" >"D:\Test\ControlUnit.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">ControlUnit</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"D:\Test\CAP17_Processor.v" Line 123: Assignment to <arg fmt="%s" index="1">seq</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1773" delta="new" >"D:\Xilinx\HW1\LShifter.v" Line 30: Procedural &apos;assign&apos; is not a supported statement for synthesis
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="new" >"D:\Xilinx\HW1\LShifter.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">LShifter</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"D:\Xilinx\HW1\ALU.v" Line 46: Assignment to <arg fmt="%s" index="1">pwr</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"D:\Xilinx\HW1\ALU.v" Line 47: Assignment to <arg fmt="%s" index="1">gnd</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"D:\Xilinx\HW1\ALU.v" Line 50: Assignment to <arg fmt="%s" index="1">s15</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1773" delta="new" >"D:\Xilinx\HW1\ALU.v" Line 57: Procedural &apos;assign&apos; is not a supported statement for synthesis
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="new" >"D:\Xilinx\HW1\ALU.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">ALU</arg>&gt; remains a black box.
+</msg>
+
+</messages>
+

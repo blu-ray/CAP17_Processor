@@ -1,0 +1,12 @@
+xst -intstyle ise -ifn "D:/Test/CAP17_Processor.xst" -ofn "D:/Test/CAP17_Processor.syr" 
+xst -intstyle ise -ifn "D:/Test/CAP17_Processor.xst" -ofn "D:/Test/CAP17_Processor.syr" 
+vhdtdtfi -lib work D:/Test/CAP17_Processor.v -lang verilog -prj Test -o CAP17_Processor.spl -module CAP17_Processor -template D:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 CAP17_Processor.spl D:/Test/CAP17_Processor.sym 
+vhdtdtfi -lang verilog -prj Test -o D:/Test/CAP17_Processor.tfi -lib work D:/Test//CAP17_Processor.v -module CAP17_Processor -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "D:/Test/CAP17_Processor.xst" -ofn "D:/Test/CAP17_Processor.syr" 
+xst -intstyle ise -ifn "D:/Test/CAP17_Processor.xst" -ofn "D:/Test/CAP17_Processor.syr" 
+xst -intstyle ise -ifn "D:/Test/CAP17_Processor.xst" -ofn "D:/Test/CAP17_Processor.syr" 
+xst -intstyle ise -ifn "D:/Test/CAP17_Processor.xst" -ofn "D:/Test/CAP17_Processor.syr" 
+xst -intstyle ise -ifn "D:/Test/CAP17_Processor.xst" -ofn "D:/Test/CAP17_Processor.syr" 
+xst -intstyle ise -ifn "D:/Test/CAP17_Processor.xst" -ofn "D:/Test/CAP17_Processor.syr" 
+xst -intstyle ise -ifn "D:/Test/CAP17_Processor.xst" -ofn "D:/Test/CAP17_Processor.syr" 

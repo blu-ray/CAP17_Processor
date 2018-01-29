@@ -1,0 +1,8 @@
+[Inputs]
+clki
+reset
+[Outputs]
+[BiDir]
+[ATTRIBUTES]
+VeriModel CAP17_Processor
+

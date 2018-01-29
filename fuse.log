@@ -1,0 +1,39 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/Test/CAP17_Processor_isim_beh.exe -prj D:/Test/CAP17_Processor_beh.prj work.CAP17_Processor work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/Test/../Xilinx/HW1/FullAdder.v" into library work
+Analyzing Verilog file "D:/Test/../Xilinx/HW1/XOR16.v" into library work
+Analyzing Verilog file "D:/Test/../Xilinx/HW1/Subtractor16.v" into library work
+Analyzing Verilog file "D:/Test/../Xilinx/HW1/Multiplier.v" into library work
+Analyzing Verilog file "D:/Test/../Xilinx/HW1/LShifter.v" into library work
+Analyzing Verilog file "D:/Test/../Xilinx/HW1/Adder16.v" into library work
+Analyzing Verilog file "D:/Test/../Xilinx/HW1/ALU.v" into library work
+Analyzing Verilog file "D:/Test/RegBank.v" into library work
+Analyzing Verilog file "D:/Test/MultiPlexedALU.v" into library work
+Analyzing Verilog file "D:/Test/Mem16.v" into library work
+Analyzing Verilog file "D:/Test/ControlUnit.v" into library work
+Analyzing Verilog file "D:/Test/CAP17_Processor.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module Mem16
+Compiling module RegBank
+Compiling module ControlUnit
+Compiling module FullAdder
+Compiling module Adder16
+Compiling module Subtractor16
+Compiling module Multiplier
+Compiling module XOR16
+Compiling module LShifter
+Compiling module ALU
+Compiling module MultiPlexedALU
+Compiling module CAP17_Processor
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 6 sub-compilation(s) to finish...
+Compiled 13 Verilog Units
+Built simulation executable D:/Test/CAP17_Processor_isim_beh.exe
+Fuse Memory Usage: 28968 KB
+Fuse CPU Usage: 515 ms

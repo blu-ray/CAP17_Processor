@@ -1,0 +1,10 @@
+
+
+
+// Instantiate the module
+CAP17_Processor instance_name (
+    .clki(clki), 
+    .reset(reset)
+    );
+
+
